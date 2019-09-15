@@ -1,0 +1,38 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@types/googlemaps": "^3.36.5",
+    "@types/markerclustererplus": "^2.1.33",
+    "@types/react": "^16.8.22",
+    "braces": "^3.0.2",
+    "expo": "^33.0.0",
+    "expo-contacts": "^5.0.2",
+    "expo-permissions": "^5.0.1",
+    "firebase": "^6.2.3",
+    "native-base": "^2.12.1",
+    "react": "^16.0.0-alpha.6",
+    "react-dom": "^16.8.6",
+    "react-native": "^0.59.9",
+    "react-native-contacts": "^5.0.0",
+    "react-native-navigation": "^2.22.0",
+    "react-native-unimodules": "^0.4.1",
+    "react-native-vector-icons": "^6.5.0",
+    "react-native-web": "^0.11.4",
+    "react-navigation": "^3.11.0",
+    "react-redux": "^7.1.0",
+    "redux": "^4.0.1",
+    "uuid": "^3.3.2",
+    "ws": "^7.0.1"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.1.1"
+  },
+  "private": true
+}

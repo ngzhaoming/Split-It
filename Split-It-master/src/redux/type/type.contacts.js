@@ -1,0 +1,1 @@
+export const STORE_CONTACTS = 'STORE_CONTACTS';
