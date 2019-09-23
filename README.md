@@ -45,11 +45,11 @@ The user's manual consists of 4 sections: General Information, Getting Started, 
 <br>
 
 | Section   | Description    | 
-|:-----------|:------------|
-| General Information| Gives a broad overview of what Split-It does and the <br> purpose for which it is intended
+|:----|:----|
+| General Information| Gives a broad overview of what Split-It does and the <br> purpose for which it is intended |
 | Getting started| Instructions to installing Split-It and the commands <br> to run the application |	
 | Using Split-It| Gives a step-by-step instruction on how to use <br> the features in Split-It | 
-|Feedback / Contact| Provide information to contact the creator of Split-It |   
+| Feedback / Contact| Provide information to contact the creator of Split-It |   
 <br>
 
 ---
