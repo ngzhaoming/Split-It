@@ -20,7 +20,7 @@ __Table of contents__
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#3.2">3.2 Features of Split-It</a>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#3.2">3.2.1 Splitting Methods</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#3.2.1">3.2.1 Splitting Methods</a>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#3.2.2">3.2.2 OCR recognition</a>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#3.2.3">3.2.3 Financal Tracker</a>
 <br>
@@ -45,7 +45,7 @@ The user's manual consists of 4 sections: General Information, Getting Started, 
 <br>
 
 | Section   | Description    | 
-|:-----------|------------|
+|-----------|------------|
 | General Information    |Gives a broad overview of what Split-It does and the <br> purpose for which it is intended
 | Getting started			 |Instructions to installing Split-It and the commands <br> to run the application|	
 | Using Split-It  |Gives a step-by-step instruction on how to use <br> the features in Split-It| 
@@ -81,7 +81,7 @@ Upon starting up Split-It application on the expo app, you will first be greeted
 Proceeding on from the previous page, you will be able to customize your profile, by inserting a profile picture and also entering your phone number. Once done, users will be immediately directed to the Split-It homepage where they can start using those cool features implemented.
 
 ### <a id="3.2">3.2 Features of Split-It</a>
-###### <a id="3.2.1">3.2.1 Splitting Methods</a>
+#### <a id="3.2.1">3.2.1 Splitting Methods</a>
 Split-It application supports two forms of splitting methods. To start a bill-splitting activitiy, click on the black `SPLIT` button located in the homepage. Users will be directed to the contact page. Split-It will sync the user's contact page on their phone and filter out only other registered users to be shown. Select the contacts whom are involved in the bill-splitting activity and select `proceed`.
 
 * **Equally** : The total amount of the bill will be split equally amongst the total number of people that are included when selecting the contacts in the contact page. Users are then prompted to:
@@ -98,13 +98,13 @@ Once done, users can select `SPLIT BILL` and Split-It will calculate the total a
 
 * **Receipt** : Upon navigating to that tab, users will be prompted to insert a picture of their receipt through uploading a picture from their gallery or taking a photo of it using the in-built camera on their phone. The billing information will be automatically in the next page. The details of the receipt will also be stored inside their phone for future reference.
 
-###### <a id="3.2.2">3.2.2 OCR recognition</a>
+#### <a id="3.2.2">3.2.2 OCR recognition</a>
 The OCR recognition feature is implemented using Google Vision Cloud API. It is mainly used for the receipt bill-splitting method. Upon navigating to the `receipt` tab, users will be directed to a page where they can upload a photo through their Gallery or use their in-built camera to take a picture of the receipt. Once the picture has been uploaded, the `Analyze` button will appear. Click on it for Split-It to process the picture of the receipt. Once the data has been shown, click on `Proceed` for Split-It to process the receipt details.
 <br><br>
 Users will be directed to the splitting page where the total amount of the receipt will be automatically inserted into the `Total Amount` field. Users are recommended to categorize their bill-splitting activity so that the Split-It can help track their individual spendings.
 <br>
 
-###### <a id="3.2.3">3.2.3 Financial Tracker</a>
+#### <a id="3.2.3">3.2.3 Financial Tracker</a>
 The financial tracker is located in the homepage of Split-It application. It keeps tracks of the user's spendings based on the different categories:
 * General
 * Food and Drinks
