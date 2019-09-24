@@ -42,7 +42,6 @@ Welcome to Split-It! Split-It is is a mobile application created using React Nat
 
 ### <a id="1.2">1.2 Organization of READ.me</a>
 The user's manual consists of 4 sections: General Information, Getting Started, instructions on how to use Split-It and Feedback and Contact us.
-<br>
 
 | Section| Description
 |-----|-----
@@ -51,7 +50,6 @@ The user's manual consists of 4 sections: General Information, Getting Started, 
 | Using Split-It| Gives a step-by-step instruction on how to use <br> the features in Split-It 
 | Feedback / Contact| Provide information to contact the creator of Split-It 
 
-<br>
 ---
 
 ## <a id="2">2. Getting started</a>
