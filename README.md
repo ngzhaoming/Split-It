@@ -134,6 +134,7 @@ Also under the `more` tab in the homepage, users can select the `Help and FAQ` s
 The `help and FAQ` feature are categorized into two sections, app help which covers the functionality aspects of Split-It while FAQ covers the common errors and bugs that users can potentially face while using Split-It.
 <br>
 <br>
+
 ---
 ## <a id="4">4. Feedback and Contact us</a>
 ### <a id="4.1">4.1 Contact us</a>
