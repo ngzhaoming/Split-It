@@ -29,7 +29,7 @@
     "react-redux": "^7.1.0",
     "redux": "^4.0.1",
     "uuid": "^3.3.2",
-    "ws": "^7.0.1"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "babel-preset-expo": "^5.1.1"
