@@ -19,7 +19,7 @@
     "native-base": "^2.12.1",
     "react": "^16.0.0-alpha.6",
     "react-dom": "^16.8.6",
-    "react-native": "^0.59.9",
+    "react-native": "^0.62.3",
     "react-native-contacts": "^5.0.0",
     "react-native-navigation": "^2.22.0",
     "react-native-unimodules": "^0.4.1",
